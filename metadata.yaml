@@ -1,0 +1,38 @@
+_repo: Herinneringen-van-Dr-Aletta-H-Jacobs_70336
+_version: 0.0.1
+contributor:
+  contributor:
+    agent_name: Oppenheim, J.
+    gutenberg_agent_id: '55712'
+    url: http://www.gutenberg.org/2009/agents/55712
+creator:
+  author:
+    agent_name: Jacobs, Aletta H. (Aletta Henriette)
+    aliases:
+    - Jacobs, Aletta Henriette
+    - Jacobs, Aletta Henriëtte
+    birthdate: 1854
+    deathdate: 1929
+    gutenberg_agent_id: '24971'
+    url: http://www.gutenberg.org/2009/agents/24971
+    wikipedia:
+    - http://nl.wikipedia.org/wiki/Aletta_Jacobs
+    - http://www.alettajacobs.org/home.html
+description: ''
+gutenberg_issued: '2023-03-21'
+identifiers:
+  gutenberg: '70336'
+language: nl
+pgterms:marc905: 20220219023616jacobs
+pgterms:marc906: '1924'
+pgterms:marc907: NL
+production_note: Jeroen Hellingman and the Online Distributed Proofreading Team at
+  https://www.pgdp.net/ for Project Gutenberg
+publication_note: '  $aNetherlands :$bVan Holkema & Warendorf, $c1924.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Herinneringen van Dr. Aletta H. Jacobs
+url: http://www.gutenberg.org/ebooks/70336
